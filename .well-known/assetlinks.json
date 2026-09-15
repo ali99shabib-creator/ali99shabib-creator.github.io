@@ -1,1 +1,14 @@
-
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.alishabib.woodenstack",
+      "sha256_cert_fingerprints": [
+        "98:59:5F:3A:CB:1B:AC:64:05:C1:2E:EC:16:D2:C6:9D:C1:5C:24:27:64:C1:3D:30:30:C7:15:70:44:13:FE:07"
+      ]
+    }
+  }
+]
